@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/resources"/>
+    <qresource prefix="/">
+        <file>Resources/img/Accordéon.png</file>
+        <file>Resources/img/Button-Reload-icon.png</file>
+        <file>Resources/img/Castagnette.png</file>
+        <file>Resources/img/Claves.png</file>
+        <file>Resources/img/Cornemuse.png</file>
+        <file>Resources/img/Guitare.png</file>
+        <file>Resources/img/Harmonica.png</file>
+        <file>Resources/img/Harpe.png</file>
+        <file>Resources/img/Maracas.png</file>
+        <file>Resources/img/musique.ico</file>
+        <file>Resources/img/pause.png</file>
+        <file>Resources/img/play.png</file>
+        <file>Resources/img/stop.png</file>
+        <file>Resources/img/Tambour.png</file>
+        <file>Resources/img/Trompette.png</file>
+        <file>Resources/sound/Accordéon.wav</file>
+        <file>Resources/sound/Castagnette.wav</file>
+        <file>Resources/sound/Claves.wav</file>
+        <file>Resources/sound/Cornemuse.wav</file>
+        <file>Resources/sound/Guitare.wav</file>
+        <file>Resources/sound/Harmonica.wav</file>
+        <file>Resources/sound/Harpe.wav</file>
+        <file>Resources/sound/Maracas.wav</file>
+        <file>Resources/sound/Tambour.wav</file>
+        <file>Resources/sound/Trompette.wav</file>
+    </qresource>
+</RCC>
